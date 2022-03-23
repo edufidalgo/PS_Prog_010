@@ -1,0 +1,15 @@
+C:\Users\MTW\source\repos\Med_2\bin\Debug\net5.0\Med_2.exe
+C:\Users\MTW\source\repos\Med_2\bin\Debug\net5.0\Med_2.deps.json
+C:\Users\MTW\source\repos\Med_2\bin\Debug\net5.0\Med_2.runtimeconfig.json
+C:\Users\MTW\source\repos\Med_2\bin\Debug\net5.0\Med_2.runtimeconfig.dev.json
+C:\Users\MTW\source\repos\Med_2\bin\Debug\net5.0\Med_2.dll
+C:\Users\MTW\source\repos\Med_2\bin\Debug\net5.0\ref\Med_2.dll
+C:\Users\MTW\source\repos\Med_2\bin\Debug\net5.0\Med_2.pdb
+C:\Users\MTW\source\repos\Med_2\obj\Debug\net5.0\Med_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MTW\source\repos\Med_2\obj\Debug\net5.0\Med_2.AssemblyInfoInputs.cache
+C:\Users\MTW\source\repos\Med_2\obj\Debug\net5.0\Med_2.AssemblyInfo.cs
+C:\Users\MTW\source\repos\Med_2\obj\Debug\net5.0\Med_2.csproj.CoreCompileInputs.cache
+C:\Users\MTW\source\repos\Med_2\obj\Debug\net5.0\Med_2.dll
+C:\Users\MTW\source\repos\Med_2\obj\Debug\net5.0\ref\Med_2.dll
+C:\Users\MTW\source\repos\Med_2\obj\Debug\net5.0\Med_2.pdb
+C:\Users\MTW\source\repos\Med_2\obj\Debug\net5.0\Med_2.genruntimeconfig.cache
