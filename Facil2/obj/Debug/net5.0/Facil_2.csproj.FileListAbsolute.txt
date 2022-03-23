@@ -1,0 +1,16 @@
+C:\Users\MTW\source\repos\Facil_2\bin\Debug\net5.0\Facil_2.exe
+C:\Users\MTW\source\repos\Facil_2\bin\Debug\net5.0\Facil_2.deps.json
+C:\Users\MTW\source\repos\Facil_2\bin\Debug\net5.0\Facil_2.runtimeconfig.json
+C:\Users\MTW\source\repos\Facil_2\bin\Debug\net5.0\Facil_2.runtimeconfig.dev.json
+C:\Users\MTW\source\repos\Facil_2\bin\Debug\net5.0\Facil_2.dll
+C:\Users\MTW\source\repos\Facil_2\bin\Debug\net5.0\ref\Facil_2.dll
+C:\Users\MTW\source\repos\Facil_2\bin\Debug\net5.0\Facil_2.pdb
+C:\Users\MTW\source\repos\Facil_2\obj\Debug\net5.0\Facil_2.csproj.AssemblyReference.cache
+C:\Users\MTW\source\repos\Facil_2\obj\Debug\net5.0\Facil_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MTW\source\repos\Facil_2\obj\Debug\net5.0\Facil_2.AssemblyInfoInputs.cache
+C:\Users\MTW\source\repos\Facil_2\obj\Debug\net5.0\Facil_2.AssemblyInfo.cs
+C:\Users\MTW\source\repos\Facil_2\obj\Debug\net5.0\Facil_2.csproj.CoreCompileInputs.cache
+C:\Users\MTW\source\repos\Facil_2\obj\Debug\net5.0\Facil_2.dll
+C:\Users\MTW\source\repos\Facil_2\obj\Debug\net5.0\ref\Facil_2.dll
+C:\Users\MTW\source\repos\Facil_2\obj\Debug\net5.0\Facil_2.pdb
+C:\Users\MTW\source\repos\Facil_2\obj\Debug\net5.0\Facil_2.genruntimeconfig.cache
